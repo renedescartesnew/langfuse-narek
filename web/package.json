@@ -159,7 +159,7 @@
   },
   "devDependencies": {
     "@jedmao/location": "^3.0.0",
-    "@mermaid-js/mermaid-cli": "^11.2.0",
+    "@mermaid-js/mermaid-cli": "^11.9.0",
     "@next/bundle-analyzer": "^15.4.1",
     "@playwright/test": "^1.47.2",
     "@repo/eslint-config": "workspace:*",
